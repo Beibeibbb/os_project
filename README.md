@@ -63,6 +63,6 @@ docs/scheduler_benchmark.csv
 报告中需要写明代码托管 URL 和访问方式，例如：·
 
 ```text
-代码地址：https://github.com/<username>/os-course-design
+代码地址：[https://github.com/<username>/os-course-design](https://github.com/Beibeibbb/os_project)
 访问方式：公开仓库，可直接访问；或私有仓库，已向教师账号开放访问权限。
 ```
