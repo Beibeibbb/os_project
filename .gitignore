@@ -1,0 +1,15 @@
+# Build artifacts
+*.o
+os_course_design
+os_course_design.exe
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Temporary output
+run_output.txt
+*.log
+~$*.docx

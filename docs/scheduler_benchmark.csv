@@ -1,0 +1,11 @@
+workload,algorithm,average_waiting,average_turnaround,average_response,context_switches,makespan,throughput
+balanced,FCFS,12.12,16.75,12.12,7,37,0.22
+balanced,SJF,9.00,13.62,9.00,7,37,0.22
+balanced,RR(q=3),14.00,18.62,7.38,13,37,0.22
+balanced,Priority,11.88,16.50,11.88,7,37,0.22
+balanced,HRRN,9.50,14.12,9.50,7,37,0.22
+bursty,FCFS,12.88,17.38,12.88,7,36,0.22
+bursty,SJF,10.50,15.00,10.50,7,36,0.22
+bursty,RR(q=3),10.00,14.50,4.25,14,36,0.22
+bursty,Priority,11.00,15.50,11.00,7,36,0.22
+bursty,HRRN,10.62,15.12,10.62,7,36,0.22
